@@ -1,4 +1,19 @@
-## Hi there 👋
+## Welcome to Johnny Sylvain's Github
+
+I have pinned my most recent and impressive work, please check them out! 
+
+You are welcome to peek into my older repositories that document my journey learning to code. 
+
+## Contact: 
+
+**Email:** [alegomonkey@gmail.com](mailto:alegomonkey@gmail.com)
+
+**Phone:** [207‑730‑6877](tel:207‑730‑6877)
+
+**LinkedIn:** [Johnny Sylvain](https://www.linkedin.com/in/johnny-sylvain-322852362)
+
+**Résumé:** [View my résumé](./resume.pdf)
+
 
 <!--
 **alegomonkey/alegomonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
