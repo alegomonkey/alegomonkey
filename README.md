@@ -6,7 +6,7 @@ You are welcome to peek into my older repositories that document my journey lear
 
 ## Contact: 
 
-**Email:** [alegomonkey@gmail.com](mailto:alegomonkey@gmail.com)
+**Email:** [email@johnnysylvain.com](mailto:email@johnnysylvain.com)
 
 **Phone:** [207‑730‑6877](tel:207‑730‑6877)
 
