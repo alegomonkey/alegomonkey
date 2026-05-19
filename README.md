@@ -2,6 +2,8 @@
 
 I have pinned my most recent and impressive work, please check them out! 
 
+Also check out my personal website: [johnnysylvain.com](https://johnnysylvain.com)
+
 You are welcome to peek into my older repositories that document my journey learning to code. 
 
 ## Contact: 
